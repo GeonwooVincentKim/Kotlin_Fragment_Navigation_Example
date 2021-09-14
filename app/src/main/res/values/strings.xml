@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationComponent_Fragment_Example</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="extractedText">1</string>
+    <string name="extractedNumber">1</string>
+    <string name="extractedNumber2">2</string>
+</resources>
