@@ -43,7 +43,7 @@ class SecondFragment : Fragment() {
             Log.d("SecondFragment", "FragmentSecond-MoveButton Clicked")
             findNavController().navigate(R.id.navigateToFirst)
         }
-//        view.findViewById<TextView>(R.id.navigateToSecond).setOnClickListener{Navigation.findNavController(view).navigate(R.id.navigateToFirst)}
+
         return view
     }
 
